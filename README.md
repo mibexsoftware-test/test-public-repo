@@ -1,3 +1,3 @@
 # test-public-repo
 
-The is my test repo to use during development testing. 
+This is my test repo to use during development testing. 
